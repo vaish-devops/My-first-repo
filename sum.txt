@@ -2,4 +2,5 @@ A=5
 B=10
 C=50
 
-print(A+B+c)
+print(A+B+C)
+
